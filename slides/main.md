@@ -159,7 +159,7 @@ class: center, middle, centertext
 ---
 
 ### 3.1 Model Architecture
-.left-column-40[![](/images/the-annotated-transformer_14_0.png)]
+.left-column-40[![](images/the-annotated-transformer_14_0.png)]
 .right-column-60[- **BERT**는 *transformer* 중에서도 **encoder** 부분만을 사용합니다.] 
 .right-column-60[- 이에 대한 자세한 내용은 [Vaswani et al (2017)](https://arxiv.org/abs/1706.03762) 또는 [tensor2tensor의 transformer](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/transformer.py)를 참고 바랍니다.]
   
@@ -167,7 +167,7 @@ class: center, middle, centertext
 
 ### 3.1 Model Architecture
 
-.left-column-40[![](/images/BERT_architecture.png)]
+.left-column-40[![](images/BERT_architecture.png)]
 .right-column-60[
 - **BERT**는 모델의 크기에 따라 *base* 모델과 *large* 모델을 제공합니다.
   - **$BERT_{base}$** : L=12, H=768, A=12, Total Parameters = 110M
@@ -177,7 +177,7 @@ class: center, middle, centertext
 
 ### 3.1 Model Architecture
 
-.left-column-40[![](/images/BERT_architecture1.png)]
+.left-column-40[![](images/BERT_architecture1.png)]
 .right-column-60[
 - **BERT**는 모델의 크기에 따라 *base* 모델과 *large* 모델을 제공합니다.
   - **$BERT_{base}$** : L=12, H=768, A=12, Total Parameters = 110M
@@ -187,7 +187,7 @@ class: center, middle, centertext
 ---
 ### 3.1 Model Architecture
 
-.left-column-40[![](/images/BERT_architecture2.png)]
+.left-column-40[![](images/BERT_architecture2.png)]
 .right-column-60[
 - **BERT**는 모델의 크기에 따라 *base* 모델과 *large* 모델을 제공합니다.
   - **$BERT_{base}$** : L=12, H=768, A=12, Total Parameters = 110M
@@ -199,7 +199,7 @@ class: center, middle, centertext
 
 ### 3.1 Model Architecture
 
-.left-column-40[![](/images/BERT_architecture3.png)]
+.left-column-40[![](images/BERT_architecture3.png)]
 .right-column-60[
 - **BERT**는 모델의 크기에 따라 *base* 모델과 *large* 모델을 제공합니다.
   - **$BERT_{base}$** : L=12, H=768, A=12, Total Parameters = 110M
@@ -212,7 +212,7 @@ class: center, middle, centertext
 
 ### 3.1 Model Architecture
 
-.left-column-40[![](/images/BERT_architecture3.png)]
+.left-column-40[![](images/BERT_architecture3.png)]
 .right-column-60[
 - **BERT**는 모델의 크기에 따라 *base* 모델과 *large* 모델을 제공합니다.
   - **$BERT_{base}$** : L=12, H=768, A=12, Total Parameters = 110M
